@@ -1,7 +1,7 @@
 # DetectNET
 C# Tool to Detect .NET Core and .NET Framework versions
 
-![](../Graphics/DetectNET-Console.png)
+![](https://github.com/guillermo-musumeci/detectnet/blob/main/Graphics/DetectNET-Console.png)
 
 Blog post --> https://gmusumeci.medium.com/how-to-detect-versions-of-net-framework-and-net-core-installed-in-your-windows-machine-14da50728989
 
