@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("DetectNET v1.0")]
-[assembly: AssemblyDescription("Detect .NET Framework Versions")]
+[assembly: AssemblyDescription("Detect .NET Framework and .NET Core Versions")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("KopiCloud")]
 [assembly: AssemblyProduct("DetectNET")]
